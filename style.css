@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "Inter";
+  src: url("/inter-font/Inter-Regular.otf") format("woff2"),
+       url("/inter-font/Inter-Regular.otf") format("woff");
+  font-weight: normal;
+}
+
+.page {
+  background-color: #2A2C2F;
+  max-width: 1280px;
+  margin: 0 auto;
+  font-family: "Inter";
+}
+
+.header {
+  padding: 28px 48px 0;
+  max-width: 1194px;
+  height: 52px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.header__logo {
+  margin-right: 931px;
+}
+
+.header__lang-link {
+  margin: 18px 47px 6px 0;
+  color: #FFFFFF;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.header__lang-link:last-child {
+  margin-right: 0;
+}
+
+.lead {
+  margin: 56px 148px 0;
+}
+
+.lead__title {
+  margin: 0 0 32px;
+  text-align: center;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 100px;
+  color: #FFFFFF;
+}
+
+.lead__subtitle {
+  margin: 0 0 64px;
+  text-align: center;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 36px;
+  color: #FFFFFF;
+}
+
+.lead__image {
+  margin: 0;
+  max-width: 984px;
+  height: 615px;
+  background-size: cover;
+  background-image: url(/images/kalegin-michail-179870-unsplash.svg);
+}
+
+.lead__image-inner {
+  
+}
