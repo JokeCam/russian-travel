@@ -18,6 +18,17 @@
   }
 }
 
+@media screen and (max-width: 425px){
+  .cover__title {
+    height: 70px;
+    margin-top: 60px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 35px;
+  }
+}
+
 @media screen and (max-width: 320px){
   .cover__title {
     height: 70px;

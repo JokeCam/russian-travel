@@ -9,6 +9,12 @@
   color: #FFFFFF;
 }
 
+@media screen and (max-width: 425px){
+  .footer__copyright {
+    position: unset;
+  }
+}
+
 @media screen and (max-width: 320px){
   .footer__copyright {
     position: unset;

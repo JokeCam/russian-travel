@@ -10,6 +10,20 @@
   }
 }
 
+@media screen and (max-width: 425px){
+  .lead__image {
+    max-width: 425px;
+    max-height: 280px;
+  }
+}
+
+@media screen and (max-width: 375px){
+  .lead__image {
+    max-width: 375px;
+    max-height: 240px;
+  }
+}
+
 @media screen and (max-width: 320px){
   .lead__image {
     max-width: 320px;
