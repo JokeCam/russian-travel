@@ -1,4 +1,4 @@
-.places__website__url {
+.places__link {
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -7,12 +7,12 @@
   transition: opacity 0.7s;
 }
 
-.places__website__url:hover {
+.places__link:hover {
   opacity: 0.5;
 }
 
 @media screen and (max-width: 320px){
-  .places__website__url {
+  .places__link {
     display: none;
   }
 }
