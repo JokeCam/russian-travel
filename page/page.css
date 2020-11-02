@@ -30,8 +30,10 @@
 @import url("../blocks/footer/footer.css");
 @import url("../blocks/footer/__copyright/footer__copyright.css");
 @import url("../blocks/footer/__link/footer__link.css");
+
 @font-face {
 	font-family: "Inter";
-	src: url("../inter-font/Inter-Regular.otf") format("woff2"), url("../inter-font/Inter-Regular.otf") format("woff");
+  src: url("../inter-font/Inter-Regular.otf") format("woff2"),
+       url("../inter-font/Inter-Regular.otf") format("woff");
 	font-weight: normal;
 }
