@@ -2,13 +2,19 @@
   padding: 28px 48px 0;
   max-width: 1194px;
   height: 52px;
-  display: flex;
-  justify-content: flex-end;
-  position: relative;
+  display: grid;
+  grid-template-columns: 90% 1fr 1fr;
 }
 
+@media screen and (max-width: 425px){
+  .header{
+  padding: 16px 16px 0;
+  grid-template-columns: 80% 1fr 1fr;
+  }
+}
 @media screen and (max-width: 320px){
   .header {
     padding: 16px 16px 0;
+    grid-template-columns: 80% 1fr 1fr;
   }
 }
