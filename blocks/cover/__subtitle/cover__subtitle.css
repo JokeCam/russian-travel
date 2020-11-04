@@ -8,7 +8,7 @@
   line-height: 22px;
   color: #FFFFFF;
   z-index: 1;
-  pointer-events: none
+  pointer-events: none;
 }
 
 @media screen and (max-width: 425px){
