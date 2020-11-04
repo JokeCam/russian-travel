@@ -13,9 +13,3 @@
     position: unset;
   }
 }
-
-@media screen and (max-width: 320px){
-  .footer__copyright {
-    position: unset;
-  }
-}
