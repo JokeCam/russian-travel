@@ -1,6 +1,7 @@
 .place__website {
   display: flex;
   flex-direction: column-reverse;
+  align-self: end;
 }
 
 @media screen and (max-width: 425px){

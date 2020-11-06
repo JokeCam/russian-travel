@@ -1,8 +1,5 @@
 .places {
   margin: 92px 148px 0;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: repeat(5, minmax(min-content, max-content));
-  gap: 40px;
 }
 
 @media screen and (max-width: 1024px){

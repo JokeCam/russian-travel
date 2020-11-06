@@ -1,0 +1,11 @@
+@media screen and (max-width: 642px){
+  .footer__item {
+    margin-bottom: 32px;
+    font-size: 24px;
+    line-height: 24px;
+  }
+
+  .footer__item:last-of-type {
+  margin-bottom: 48px;
+  }
+}
