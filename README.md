@@ -1,9 +1,9 @@
-# Проект 3: Путешествие по России
+# Проект: Путешествие по России/Project: Russian travel
 
 ## Этот проект рассказывает о путешествии по России.
 В нём испульзуются медиазапросы, гридбоксы для создания адаптивной вёрстки.
 
-https://jokecam.github.io/russian-travel/
+## This project tells about russian travel
+It uses media requests and grid to create adaprive layout
 
-:)
-
+GH Pages: https://jokecam.github.io/russian-travel/
