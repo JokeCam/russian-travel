@@ -1,9 +1,14 @@
-# Проект: Путешествие по России/Project: Russian travel
+# Проект: Путешествие по России
 
-## Этот проект рассказывает о путешествии по России.
-В нём испульзуются медиазапросы, гридбоксы для создания адаптивной вёрстки.
+## Цель проекта
+Научится адапивной верстке
 
-## This project tells about russian travel
-It uses media requests and grid to create adaptive layout
+## О чём проект?
+Этот проект рассказывает о путешествии по России.
+
+## Stack проекта
+- HTML
+- CSS
+- Адаптивная вёрстка(Grid) и медиа запросы
 
 GH Pages: https://jokecam.github.io/russian-travel/
